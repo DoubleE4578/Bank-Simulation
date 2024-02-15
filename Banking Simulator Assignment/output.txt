@@ -1,0 +1,352 @@
+* * * SIMULATION BEGINS...
+
+Deposit Agents			Withdrawal Agents			Balance						Transaction Number
+
+---------------			------------------			--------					-------------------	
+
+				Agent WT0 withdraws $87			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT2 withdraws $3			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $98			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $76			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $64			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT3 withdraws $91			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $80			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $39			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT8 withdraws $5			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $2			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT0 deposits $180							(+) Balance is $180				1
+Agent DT1 deposits $287							(+) Balance is $467				2
+Agent DT2 deposits $447							(+) Balance is $914				3
+
+* * * Flagged Transaction - Depositor Agent DT2 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+Agent DT3 deposits $170							(+) Balance is $1084				4
+				Agent WT0 withdraws $87			(-) Balance is: $997				5
+
+* * * Flagged Transaction - Withdrawal Agent WT0 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT2 withdraws $3			(-) Balance is: $994				6
+				Agent WT5 withdraws $98			(-) Balance is: $896				7
+
+* * * Flagged Transaction - Withdrawal Agent WT5 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT1 withdraws $76			(-) Balance is: $820				8
+
+* * * Flagged Transaction - Withdrawal Agent WT1 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT4 withdraws $64			(-) Balance is: $756				9
+				Agent WT3 withdraws $91			(-) Balance is: $665				10
+
+* * * Flagged Transaction - Withdrawal Agent WT3 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT6 withdraws $80			(-) Balance is: $585				11
+
+* * * Flagged Transaction - Withdrawal Agent WT6 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT7 withdraws $39			(-) Balance is: $546				12
+				Agent WT8 withdraws $5			(-) Balance is: $541				13
+				Agent WT9 withdraws $2			(-) Balance is: $539				14
+Agent DT4 deposits $403							(+) Balance is $942				15
+
+* * * Flagged Transaction - Depositor Agent DT4 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+
+********************************************************************************
+
+		INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $942	Number of transactions since last Internal audit is: 15
+
+********************************************************************************
+
+
+********************************************************************************
+
+		TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $942	Number of transactions since last Treasury audit is: 15
+
+********************************************************************************
+
+				Agent WT0 withdraws $97			(-) Balance is: $845				16
+
+* * * Flagged Transaction - Withdrawal Agent WT0 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+Agent DT0 deposits $145							(+) Balance is $990				17
+				Agent WT2 withdraws $33			(-) Balance is: $957				18
+				Agent WT2 withdraws $40			(-) Balance is: $917				19
+				Agent WT9 withdraws $7			(-) Balance is: $910				20
+				Agent WT1 withdraws $84			(-) Balance is: $826				21
+
+* * * Flagged Transaction - Withdrawal Agent WT1 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT3 withdraws $76			(-) Balance is: $750				22
+
+* * * Flagged Transaction - Withdrawal Agent WT3 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT7 withdraws $40			(-) Balance is: $710				23
+				Agent WT1 withdraws $77			(-) Balance is: $633				24
+
+* * * Flagged Transaction - Withdrawal Agent WT1 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+Agent DT0 deposits $416							(+) Balance is $1049				25
+
+* * * Flagged Transaction - Depositor Agent DT0 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+				Agent WT6 withdraws $28			(-) Balance is: $1021				26
+				Agent WT3 withdraws $88			(-) Balance is: $933				27
+
+* * * Flagged Transaction - Withdrawal Agent WT3 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT5 withdraws $61			(-) Balance is: $872				28
+				Agent WT7 withdraws $1			(-) Balance is: $871				29
+				Agent WT4 withdraws $90			(-) Balance is: $781				30
+
+* * * Flagged Transaction - Withdrawal Agent WT4 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT6 withdraws $33			(-) Balance is: $748				31
+				Agent WT0 withdraws $24			(-) Balance is: $724				32
+				Agent WT0 withdraws $99			(-) Balance is: $625				33
+
+* * * Flagged Transaction - Withdrawal Agent WT0 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT3 withdraws $17			(-) Balance is: $608				34
+				Agent WT2 withdraws $62			(-) Balance is: $546				35
+				Agent WT3 withdraws $79			(-) Balance is: $467				36
+
+* * * Flagged Transaction - Withdrawal Agent WT3 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT8 withdraws $40			(-) Balance is: $427				37
+				Agent WT3 withdraws $80			(-) Balance is: $347				38
+
+* * * Flagged Transaction - Withdrawal Agent WT3 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT1 withdraws $74			(-) Balance is: $273				39
+				Agent WT9 withdraws $13			(-) Balance is: $260				40
+				Agent WT3 withdraws $49			(-) Balance is: $211				41
+				Agent WT8 withdraws $61			(-) Balance is: $150				42
+				Agent WT5 withdraws $53			(-) Balance is: $97				43
+				Agent WT7 withdraws $88			(-) Balance is: $9				44
+
+* * * Flagged Transaction - Withdrawal Agent WT7 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT6 withdraws $58			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT1 deposits $414							(+) Balance is $423				45
+
+* * * Flagged Transaction - Depositor Agent DT1 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+				Agent WT9 withdraws $36			(-) Balance is: $387				46
+				Agent WT6 withdraws $58			(-) Balance is: $329				47
+				Agent WT9 withdraws $88			(-) Balance is: $241				48
+
+* * * Flagged Transaction - Withdrawal Agent WT9 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT4 withdraws $46			(-) Balance is: $195				49
+				Agent WT8 withdraws $99			(-) Balance is: $96				50
+
+* * * Flagged Transaction - Withdrawal Agent WT8 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT1 withdraws $73			(-) Balance is: $23				51
+				Agent WT2 withdraws $50			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $66			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $73			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT3 withdraws $23			(-) Balance is: $0				52
+				Agent WT2 withdraws $50			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $66			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $73			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $58			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT8 withdraws $93			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT4 deposits $254							(+) Balance is $254				53
+				Agent WT2 withdraws $50			(-) Balance is: $204				54
+				Agent WT7 withdraws $66			(-) Balance is: $138				55
+				Agent WT0 withdraws $73			(-) Balance is: $65				56
+				Agent WT5 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $58			(-) Balance is: $7				57
+				Agent WT8 withdraws $93			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $21			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $47			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $70			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT3 withdraws $21			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $71			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $79			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+
+********************************************************************************
+
+		INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $7	Number of transactions since last Internal audit is: 42
+
+********************************************************************************
+
+				Agent WT8 withdraws $93			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $21			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $47			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $70			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT3 withdraws $21			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $71			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $79			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $423							(+) Balance is $430				58
+
+* * * Flagged Transaction - Depositor Agent DT2 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+				Agent WT8 withdraws $93			(-) Balance is: $337				59
+
+* * * Flagged Transaction - Withdrawal Agent WT8 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT5 withdraws $67			(-) Balance is: $270				60
+				Agent WT6 withdraws $21			(-) Balance is: $249				61
+				Agent WT9 withdraws $47			(-) Balance is: $202				62
+				Agent WT4 withdraws $70			(-) Balance is: $132				63
+				Agent WT3 withdraws $21			(-) Balance is: $111				64
+				Agent WT7 withdraws $71			(-) Balance is: $40				65
+				Agent WT1 withdraws $79			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $82			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT2 withdraws $53			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+
+********************************************************************************
+
+		TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $40	Number of transactions since last Treasury audit is: 50
+
+********************************************************************************
+
+				Agent WT1 withdraws $79			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $82			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT2 withdraws $53			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $39			(-) Balance is: $1				66
+				Agent WT1 withdraws $79			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $82			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT2 withdraws $53			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT3 deposits $419							(+) Balance is $420				67
+
+* * * Flagged Transaction - Depositor Agent DT3 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+				Agent WT1 withdraws $79			(-) Balance is: $341				68
+
+* * * Flagged Transaction - Withdrawal Agent WT1 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT0 withdraws $82			(-) Balance is: $259				69
+
+* * * Flagged Transaction - Withdrawal Agent WT0 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT2 withdraws $53			(-) Balance is: $206				70
+				Agent WT9 withdraws $67			(-) Balance is: $139				71
+				Agent WT9 withdraws $99			(-) Balance is: $40				72
+
+* * * Flagged Transaction - Withdrawal Agent WT9 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT7 withdraws $40			(-) Balance is: $0				73
+				Agent WT2 withdraws $65			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $98			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $324							(+) Balance is $324				74
+				Agent WT2 withdraws $65			(-) Balance is: $259				75
+				Agent WT6 withdraws $98			(-) Balance is: $161				76
+
+* * * Flagged Transaction - Withdrawal Agent WT6 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT8 withdraws $68			(-) Balance is: $93				77
+				Agent WT4 withdraws $20			(-) Balance is: $73				78
+				Agent WT6 withdraws $33			(-) Balance is: $40				79
+				Agent WT3 withdraws $96			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $85			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT0 deposits $24							(+) Balance is $64				80
+				Agent WT3 withdraws $96			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $85			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $23			(-) Balance is: $41				81
+				Agent WT3 withdraws $96			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $85			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $30			(-) Balance is: $11				82
+				Agent WT3 withdraws $96			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $85			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $18			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $24			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $22			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $4			(-) Balance is: $7				83
+				Agent WT3 withdraws $96			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $85			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $18			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $24			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $22			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT1 deposits $295							(+) Balance is $302				84
+				Agent WT3 withdraws $96			(-) Balance is: $206				85
+
+* * * Flagged Transaction - Withdrawal Agent WT3 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT5 withdraws $85			(-) Balance is: $121				86
+
+* * * Flagged Transaction - Withdrawal Agent WT5 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT9 withdraws $18			(-) Balance is: $103				87
+				Agent WT6 withdraws $24			(-) Balance is: $79				88
+				Agent WT7 withdraws $22			(-) Balance is: $57				89
+				Agent WT5 withdraws $84			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $6			(-) Balance is: $51				90
+				Agent WT5 withdraws $84			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT4 deposits $89							(+) Balance is $140				91
+				Agent WT5 withdraws $84			(-) Balance is: $56				92
+
+* * * Flagged Transaction - Withdrawal Agent WT5 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT5 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT3 deposits $4							(+) Balance is $60				93
+				Agent WT5 withdraws $67			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT3 deposits $25							(+) Balance is $85				94
+				Agent WT5 withdraws $67			(-) Balance is: $18				95
+				Agent WT3 withdraws $1			(-) Balance is: $17				96
+				Agent WT8 withdraws $6			(-) Balance is: $11				97
+				Agent WT2 withdraws $12			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT0 deposits $390							(+) Balance is $401				98
+
+* * * Flagged Transaction - Depositor Agent DT0 made a deposit in excess of $350.00 USD - See Flagged Transaction Log.
+
+				Agent WT2 withdraws $12			(-) Balance is: $389				99
+				Agent WT1 withdraws $75			(-) Balance is: $314				100
+				Agent WT4 withdraws $32			(-) Balance is: $282				101
+				Agent WT1 withdraws $93			(-) Balance is: $189				102
+
+* * * Flagged Transaction - Withdrawal Agent WT1 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT0 withdraws $83			(-) Balance is: $106				103
+
+* * * Flagged Transaction - Withdrawal Agent WT0 made a withdrawal in excess of $75.00 USD - See Flagged Transaction Log.
+
+				Agent WT2 withdraws $41			(-) Balance is: $65				104
+				Agent WT2 withdraws $1			(-) Balance is: $64				105
+				Agent WT2 withdraws $43			(-) Balance is: $21				106
+				Agent WT0 withdraws $33			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $52			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $21			(-) Balance is: $0				107
+				Agent WT0 withdraws $33			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $52			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $19			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT2 withdraws $4			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $16			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT8 withdraws $84			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $64			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $134							(+) Balance is $134				108
+				Agent WT0 withdraws $33			(-) Balance is: $101				109
+				Agent WT9 withdraws $52			(-) Balance is: $49				110
+				Agent WT7 withdraws $19			(-) Balance is: $30				111
+				Agent WT2 withdraws $4			(-) Balance is: $26				112
+				Agent WT6 withdraws $16			(-) Balance is: $10				113
+				Agent WT8 withdraws $84			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $64			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT3 withdraws $2			(-) Balance is: $8				114
+				Agent WT8 withdraws $84			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $64			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $95			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $36			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+
+********************************************************************************
+
+		TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $8	Number of transactions since last Treasury audit is: 49
+
+********************************************************************************
+
+				Agent WT8 withdraws $84			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT1 withdraws $64			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT4 withdraws $95			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT0 withdraws $36			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT6 withdraws $81			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT7 withdraws $14			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT9 withdraws $63			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+				Agent WT5 withdraws $55			(******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
